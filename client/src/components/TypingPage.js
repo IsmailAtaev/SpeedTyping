@@ -81,7 +81,6 @@ const SearchBar = () => {
         justifyContent: "space-around"
       }}>
 
-
         <div style={{
           'backgroundColor': '#3D3C3A',
           borderRadius: "50px",
