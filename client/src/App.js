@@ -1,6 +1,8 @@
 import { React } from "react";
 import TypingPage from "./components/TypingPage";
 
+
+
 /**
  * @author Atayev Ismail
  * @returns App component
